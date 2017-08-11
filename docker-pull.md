@@ -3,7 +3,6 @@
 #### stack.yml
 
 ```
-
 # Use root/example as user/password credentials
 version: '3.1'
 services:
@@ -15,7 +14,6 @@ services:
         image: adminer
         ports:
             - 8080:8080
-`
 ```
 
 #### Server 
